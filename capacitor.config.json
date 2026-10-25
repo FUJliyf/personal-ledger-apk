@@ -1,0 +1,14 @@
+{
+  "appId": "com.qingjizhang.ledger",
+  "appName": "个人私密记账本",
+  "webDir": "www",
+  "server": {
+    "url": "https://4mbp059y3vwmx.doubao.link/app/app_17gq5zvse04/",
+    "cleartext": false,
+    "androidScheme": "https",
+    "allowNavigation": ["4mbp059y3vwmx.doubao.link", "miaoda.feishu.cn"]
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
